@@ -1,6 +1,6 @@
 # Publications
 
-**[A Two-Step Approach for Automatic OCR Post-Correction](http://www.site.uottawa.ca/~szpak/pub/LaTeCH-CLfL_2020_proceedings.pdf#page=52)**  
+**[A Two-Step Approach for Automatic OCR Post-Correction](http://www.site.uottawa.ca/~szpak/pub/LaTeCH-CLfL_2020_proceedings.pdf#page=62)**  
 _[28th International Conference on Computational Linguistics (COLING'2020)](https://coling2020.org/)_  
 _[4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 
 (LaTeCH2020)](https://sighum.wordpress.com/events/latech-clfl-2020/)_  
