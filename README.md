@@ -1,6 +1,6 @@
 # Publications
 
-* **[A Two-Step Approach for Automatic OCR Post-Correction](http://www.site.uottawa.ca/~szpak/pub/LaTeCH-CLfL_2020_proceedings.pdf#page=52)**  
+**[A Two-Step Approach for Automatic OCR Post-Correction](http://www.site.uottawa.ca/~szpak/pub/LaTeCH-CLfL_2020_proceedings.pdf#page=52)**  
 _[28th International Conference on Computational Linguistics (COLING'2020)](https://coling2020.org/)_  
 _[4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 
 (LaTeCH2020)](https://sighum.wordpress.com/events/latech-clfl-2020/)_  
@@ -17,8 +17,8 @@ _[4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, 
   url       = {https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019\_paper\_4.pdf}
   }
   ```
-
-* **[Named Entity Disambiguation and Linking Historic Newspaper OCR with BERT](http://ceur-ws.org/Vol-2696/paper_163.pdf)**  
+\
+**[Named Entity Disambiguation and Linking Historic Newspaper OCR with BERT](http://ceur-ws.org/Vol-2696/paper_163.pdf)**  
 _[11th Conference and Labs of the Evaluation Forum (CLEF2020)](https://clef2020.clef-initiative.eu/)_  
 _[Identifying Historical People, Places and other Entities (HIPE2020)](https://impresso.github.io/CLEF-HIPE-2020/)_  
 22-25 September 2020, Thessaloniki, Greece  
@@ -35,8 +35,8 @@ _[Identifying Historical People, Places and other Entities (HIPE2020)](https://i
   url       = {http://ceur-ws.org/Vol-2696/paper\_163.pdf}
   }
   ```
-
-* **[QURATOR: Innovative Technologies for Content and Data Curation](http://ceur-ws.org/Vol-2535/paper_17.pdf)**  
+\
+**[QURATOR: Innovative Technologies for Content and Data Curation](http://ceur-ws.org/Vol-2535/paper_17.pdf)**  
 _[1st Conference on Digital Curation Technologies (QURATOR2020)](https://qurator.ai/conference-qurator-2020/)_  
 20-21 January 2020, Berlin, Germany  
 :closed_book: [CEUR-WS vol. 2535](http://ceur-ws.org/Vol-2535/), pp. 1-15. 2020  
@@ -59,8 +59,8 @@ _[1st Conference on Digital Curation Technologies (QURATOR2020)](https://qurator
   url       = {http://ceur-ws.org/Vol-2535/paper\_17.pdf}
   }
   ```
-
-* **[BERT for Named Entity Recognition in Contemporary and Historic German](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019_paper_4.pdf)**  
+\
+**[BERT for Named Entity Recognition in Contemporary and Historic German](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019_paper_4.pdf)**  
 _[15th Conference on Natural Language Processing (KONVENS2019)](https://2019.konvens.org/)_  
 9-11 October 2019, Erlangen, Germany  
 :closed_book: [Proceedings of KONVENS2019](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/), pp. 1-9. 2019.  
@@ -75,8 +75,8 @@ _[15th Conference on Natural Language Processing (KONVENS2019)](https://2019.kon
   url       = {https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019\_paper\_4.pdf}
   }
   ```
-
-* **[Multimodal Datasets of the Berlin State Library](http://ceur-ws.org/Vol-2402/paper7.pdf)**  
+\
+**[Multimodal Datasets of the Berlin State Library](http://ceur-ws.org/Vol-2402/paper7.pdf)**  
 _[2nd Conference on Language, Data and Knowledge (LDK2019)](http://2019.ldk-conf.org/)_  
 20-23 May 2019, Leipzig, Germany  
 :closed_book: [CEUR-WS vol. 2402](http://ceur-ws.org/Vol-2402/), pp. 34-39. 2019.  
