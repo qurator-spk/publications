@@ -12,7 +12,7 @@ _[4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, 
   author    = {Robin Schaefer and Clemens Neudecker},
   title     = {A Two-Step Approach for Automatic OCR Post-Correction},
   booktitle = {Proceedings of the 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, 
-               Social Sciences, Humanities and Literature (LaTeCH2020)},
+               Social Sciences, Humanities and Literature {LaTeCH} 2020},
   year      = {2020},
   url       = {https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019\_paper\_4.pdf}
   }
@@ -53,7 +53,7 @@ _[1st Conference on Digital Curation Technologies (QURATOR2020)](https://qurator
                Franziska Heine},
   editor    = {Adrian Paschke and Clemens Neudecker and Georg Rehm and Jamal Al Qundus and Lydia Pintscher},
   title     = {{QURATOR:} Innovative Technologies for Content and Data Curation},
-  booktitle = {Proceedings of the Conference on Digital Curation Technologies (Qurator2020), Berlin, Germany, 
+  booktitle = {Proceedings of the 1st Conference on Digital Curation Technologies, {QURATOR} 2020, Berlin, Germany, 
                January 20-21, 2020},
   year      = {2020},
   url       = {http://ceur-ws.org/Vol-2535/paper\_17.pdf}
@@ -87,7 +87,7 @@ _[2nd Conference on Language, Data and Knowledge (LDK2019)](http://2019.ldk-conf
   editor    = {Thierry Declerck and John P. McCrae},
   title     = {Multimodal Datasets of the Berlin State Library},
   booktitle = {Proceedings of the Poster Session of the 2nd Conference on Language,
-               Data and Knowledge {(LDK} 2019), Leipzig, Germany, May 21, 2019},
+               Data and Knowledge, {LDK} 2019, Leipzig, Germany, May 21, 2019},
   year      = {2019},
   url       = {http://ceur-ws.org/Vol-2402/paper7.pdf}
   }
