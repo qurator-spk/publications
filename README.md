@@ -14,7 +14,7 @@ _[4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, 
   booktitle = {Proceedings of the 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, 
                Social Sciences, Humanities and Literature {LaTeCH} 2020},
   year      = {2020},
-  url       = {https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019\_paper\_4.pdf}
+  url       = {http://www.site.uottawa.ca/~szpak/pub/LaTeCH-CLfL_2020_proceedings.pdf#page=62}
   }
   ```
 \
