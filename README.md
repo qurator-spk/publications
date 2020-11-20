@@ -14,7 +14,7 @@ _[4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, 
   booktitle = {Proceedings of the 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, 
                Social Sciences, Humanities and Literature {LaTeCH} 2020},
   year      = {2020},
-  url       = {http://www.site.uottawa.ca/~szpak/pub/LaTeCH-CLfL\_2020\_proceedings.pdf#page=62}
+  url       = {http://www.site.uottawa.ca/\~{}szpak/pub/LaTeCH-CLfL\_2020\_proceedings.pdf\#page=62}
   }
   ```
 \
