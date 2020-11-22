@@ -7,7 +7,7 @@ _[4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, 
 12-13 December 2020, Barcelona, Spain  
 :closed_book: [Proceedings of LaTeCH2020](http://www.site.uottawa.ca/~szpak/pub/LaTeCH-CLfL_2020_proceedings.pdf), pp. 52–57. 2020.  
 :floppy_disk: **[github.com/qurator-spk/sbb_ocr_postcorrection](https://github.com/qurator-spk/sbb_ocr_postcorrection)**
-  ```
+  ```bibtex
   @inproceedings{DBLP:conf/latech/SchaeferN20,
   author    = {Robin Schaefer and Clemens Neudecker},
   title     = {A Two-Step Approach for Automatic OCR Post-Correction},
@@ -24,7 +24,7 @@ _[Identifying Historical People, Places and other Entities (HIPE2020)](https://i
 22-25 September 2020, Thessaloniki, Greece  
 :closed_book: [CEUR-WS vol. 2696](http://ceur-ws.org/Vol-2696/), pp. 1–14. 2020.  
 :floppy_disk: **[github.com/qurator-spk/sbb_ned](https://github.com/qurator-spk/sbb_ned)**
-  ```
+  ```bibtex
   @inproceedings{DBLP:conf/clef/LabuschN20,
   author    = {Kai Labusch and Clemens Neudecker},
   editor    = {Linda Cappellato and Carsten Eickhoff and Nicola Ferro and Aur{\'{e}}lie N{\'{e}}v{\'{e}}ol},
@@ -40,7 +40,7 @@ _[Identifying Historical People, Places and other Entities (HIPE2020)](https://i
 _[1st Conference on Digital Curation Technologies (QURATOR2020)](https://qurator.ai/conference-qurator-2020/)_  
 20-21 January 2020, Berlin, Germany  
 :closed_book: [CEUR-WS vol. 2535](http://ceur-ws.org/Vol-2535/), pp. 1–15. 2020  
-  ```
+  ```bibtex
   @inproceedings{DBLP:conf/qurator/RehmBHKSOZBGRRR20,
   author    = {Georg Rehm and Peter Bourgonje and Stefanie Hegele and Florian Kintzel and Juli{\'{a}}n Moreno 
                Schneider and Malte Ostendorff and Karolina Zaczynska and Armin Berger and Stefan Grill and 
@@ -65,7 +65,7 @@ _[15th Conference on Natural Language Processing (KONVENS2019)](https://2019.kon
 9-11 October 2019, Erlangen, Germany  
 :closed_book: [Proceedings of KONVENS2019](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/), pp. 1–9. 2019.  
 :floppy_disk: **[github.com/qurator-spk/sbb_ner](https://github.com/qurator-spk/sbb_ner)**
-  ```
+  ```bibtex
   @inproceedings{DBLP:conf/konvens/LabuschNZ19,
   author    = {Kai Labusch and Clemens Neudecker and David Zellh{\"{o}}fer},
   title     = {{BERT} for Named Entity Recognition in Contemporary and Historic German},
@@ -81,7 +81,7 @@ _[2nd Conference on Language, Data and Knowledge (LDK2019)](http://2019.ldk-conf
 20-23 May 2019, Leipzig, Germany  
 :closed_book: [CEUR-WS vol. 2402](http://ceur-ws.org/Vol-2402/), pp. 34–39. 2019.  
 :floppy_disk: **[zenodo.org/communities/stabi](https://zenodo.org/communities/stabi/search?page=1&size=20)**
-  ```
+  ```bibtex
   @inproceedings{DBLP:conf/ldk/Zellhofer19,
   author    = {David Zellh{\"{o}}fer},
   editor    = {Thierry Declerck and John P. McCrae},
