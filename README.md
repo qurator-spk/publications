@@ -5,7 +5,7 @@ _[28th International Conference on Computational Linguistics (COLING'2020)](http
 _[4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 
 (LaTeCH2020)](https://sighum.wordpress.com/events/latech-clfl-2020/)_  
 12-13 December 2020, Barcelona, Spain  
-:closed_book: [Proceedings of LaTeCH2020](https://www.aclweb.org/anthology/events/coling-2020/#2020latechclfl-1), pp. 52–57. 2020.  
+:closed_book: [Proceedings of LaTeCH2020](https://www.aclweb.org/anthology/events/coling-2020/#2020-latechclfl-1), pp. 52–57. 2020.  
 :floppy_disk: **[github.com/qurator-spk/sbb_ocr_postcorrection](https://github.com/qurator-spk/sbb_ocr_postcorrection)**
   ```bibtex
   @inproceedings{DBLP:conf/latech/SchaeferN20,
