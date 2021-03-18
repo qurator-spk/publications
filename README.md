@@ -40,6 +40,7 @@ _[Identifying Historical People, Places and other Entities (HIPE2020)](https://i
 _[1st Conference on Digital Curation Technologies (QURATOR2020)](https://qurator.ai/conference-qurator-2020/)_  
 20-21 January 2020, Berlin, Germany  
 :closed_book: [CEUR-WS vol. 2535](http://ceur-ws.org/Vol-2535/), pp. 1–15. 2020  
+:floppy_disk: **[qurator.ai](https://qurator.ai)**
   ```bibtex
   @inproceedings{DBLP:conf/qurator/RehmBHKSOZBGRRR20,
   author    = {Georg Rehm and Peter Bourgonje and Stefanie Hegele and Florian Kintzel and Juli{\'{a}}n Moreno 
