@@ -1,5 +1,37 @@
 # Publications
 
+**[Named Entity Linking mit Wikidata und GND – Das Potenzial handkuratierter und strukturierter Datenquellen f&uuml;r die semantische Anreicherung von Volltexten](https://doi.org/10.1515/9783110691597-012)**  
+_In: [Qualit&auml;t in der Inhaltserschlie&szlig;ung](https://doi.org/10.1515/9783110691597)  
+De Gruyter Saur 2021_  
+:closed_book: [Qualit&auml;t in der Inhaltserschlie&szlig;ung](https://doi.org/10.1515/9783110691597), pp. 229–257. 2021.  
+  ```bibtex
+  @bookchapter{BIPRA-B/70/Menzel21,
+  author    = {Sina Menzel and Hannes Schnaitter and Josefine Zinck and Vivien Petras and Clemens Neudecker and 
+               Kai Labusch and Elena Leitner and Georg Rehm},
+  editor    = {Michael Franke-Maier and Anna Kasprzik and Andreas Ledl and Hans Sch&uuml;rmann},
+  title     = {Methoden und Metriken zur Messung von OCR-Qualit&auml;t f&uuml;r die Kuratierung von Daten und Metadaten},
+  booktitle = {Qualit&auml;t in der Inhaltserschlie&szlig;ung},
+  year      = {2021},
+  url       = {https://doi.org/10.1515/9783110691597-012}
+  }
+  ```
+\
+**[Methoden und Metriken zur Messung von OCR-Qualit&auml;t f&uuml;r die Kuratierung von Daten und Metadaten](https://doi.org/10.1515/9783110691597-009)**  
+_In: [Qualit&auml;t in der Inhaltserschlie&szlig;ung](https://doi.org/10.1515/9783110691597)  
+De Gruyter Saur 2021_  
+:closed_book: [Qualit&auml;t in der Inhaltserschlie&szlig;ung](https://doi.org/10.1515/9783110691597), pp. 137–165. 2021.  
+  ```bibtex
+  @bookchapter{BIPRA-B/70/Neudecker21,
+  author    = {Clemens Neudecker and Karolina Zaczynska and Konstantin Baierer and Georg Rehm and Mike Gerber and 
+               Julian Moreno Schneider},
+  editor    = {Michael Franke-Maier and Anna Kasprzik and Andreas Ledl and Hans Sch&uuml;rmann},
+  title     = {Methoden und Metriken zur Messung von OCR-Qualit&auml;t f&uuml;r die Kuratierung von Daten und Metadaten},
+  booktitle = {Qualit&auml;t in der Inhaltserschlie&szlig;ung},
+  year      = {2021},
+  url       = {https://doi.org/10.1515/9783110691597-009}
+  }
+  ```
+\
 **[A Two-Step Approach for Automatic OCR Post-Correction](https://www.aclweb.org/anthology/2020.latechclfl-1.6.pdf)**  
 _[28th International Conference on Computational Linguistics (COLING'2020)](https://coling2020.org/)_  
 _[4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 
