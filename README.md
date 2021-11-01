@@ -1,5 +1,23 @@
 # Publications
 
+**[A survey of OCR evaluation tools and metrics](https://doi.org/10.1145/3476887.3476888)**  
+_[16th International Conference on Document Analysis and Recognition (ICDAR2021)](https://icdar2021.org/)_  
+_[International Workshop on Historical Document Imaging and Processing (HIP’21)](https://blog.sbb.berlin/hip2021/)_  
+5-10 September 2021, Lausanne, Switzerland  
+:closed_book: [Proceedings of HIP'21](https://dl.acm.org/doi/proceedings/10.1145/3476887), pp. 13–18. 2021.  
+  ```bibtex
+  @inproceedings{DBLP:conf/hip/Neudecker21,,
+  author    = {Clemens Neudecker and Konstantin Baierer and Mike Gerber and Christian Clausner and Apostolos Antonacopoulos 
+               and Stefan Pletschacher},
+  editor    = {Apostolos Antonacopoulos and Christian Clausner and Maud Ehrmann and Clemens Neudecker},
+  title     = {A survey of OCR evaluation tools and metrics},
+  booktitle = {Proceedings of the 6th International Workshop on Historical Document Imaging and Processing {HIP} 2021, 
+               Lausanne, Switzerland, September 6, 2021},
+  year      = {2021},
+  url       = {https://dl.acm.org/doi/proceedings/10.1145/3476887}
+  }
+  ```
+\
 **[Named Entity Linking mit Wikidata und GND – Das Potenzial handkuratierter und strukturierter Datenquellen f&uuml;r die semantische Anreicherung von Volltexten](https://doi.org/10.1515/9783110691597-012)**  
 _In: [Qualit&auml;t in der Inhaltserschlie&szlig;ung](https://doi.org/10.1515/9783110691597)  
 De Gruyter Saur 2021_  
