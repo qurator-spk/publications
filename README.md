@@ -27,7 +27,8 @@ De Gruyter Saur 2021_
   author    = {Sina Menzel and Hannes Schnaitter and Josefine Zinck and Vivien Petras and Clemens Neudecker and 
                Kai Labusch and Elena Leitner and Georg Rehm},
   editor    = {Michael Franke-Maier and Anna Kasprzik and Andreas Ledl and Hans Sch&uuml;rmann},
-  title     = {Methoden und Metriken zur Messung von OCR-Qualit&auml;t f&uuml;r die Kuratierung von Daten und Metadaten},
+  title     = {Named Entity Linking mit Wikidata und GND – Das Potenzial handkuratierter und strukturierter Datenquellen f&uuml;r 
+               die semantische Anreicherung von Volltexten},
   booktitle = {Qualit&auml;t in der Inhaltserschlie&szlig;ung},
   year      = {2021},
   url       = {https://doi.org/10.1515/9783110691597-012}
