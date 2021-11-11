@@ -14,7 +14,7 @@ _[International Workshop on Historical Document Imaging and Processing (HIP’21
   booktitle = {Proceedings of the 6th International Workshop on Historical Document Imaging and Processing {HIP} 2021, 
                Lausanne, Switzerland, September 6, 2021},
   year      = {2021},
-  url       = {https://dl.acm.org/doi/proceedings/10.1145/3476887}
+  url       = {https://doi.org/10.1145/3476887.3476888}
   }
   ```
 \
