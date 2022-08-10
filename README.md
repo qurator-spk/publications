@@ -1,5 +1,23 @@
 # Publications
 
+**[Entity Linking in Multilingual Newspapers and Classical Commentaries with BERT](http://ceur-ws.org/Vol-3180/paper-85.pdf)**  
+_[13th Conference and Labs of the Evaluation Forum (CLEF 2022)](https://clef2022.clef-initiative.eu/)_  
+_[Identifying Historical People, Places and other Entities (HIPE2022)](https://hipe-eval.github.io/HIPE-2022/)_  
+5-8 September 2022, Bolgona, Italy  
+:closed_book: [CEUR-WS vol. 3180](http://ceur-ws.org/Vol-3180/), pp. 1079-1089. 2022.  
+:floppy_disk: **[github.com/qurator-spk/sbb_ned](https://github.com/qurator-spk/sbb_ned)**
+  ```bibtex
+  @inproceedings{DBLP:conf/clef/LabuschN22,
+  author    = {Kai Labusch and Clemens Neudecker},
+  editor    = {Guglielmo Faggioli and Nicola Ferro and Allan Hanbury and Martin Potthast},
+  title     = {Entity Linking in Multilingual Newspapers and Classical Commentaries with {BERT}},
+  booktitle = {Working Notes of {CLEF} 2022 - Conference and Labs of the Evaluation Forum, Bologna, 
+               Italy, September 5-8, 2022},
+  year      = {2022},
+  url       = {http://ceur-ws.org/Vol-3180/paper-85.pdf}
+  }
+  ```
+\
 **[A survey of OCR evaluation tools and metrics](https://doi.org/10.1145/3476887.3476888)**  
 _[16th International Conference on Document Analysis and Recognition (ICDAR2021)](https://icdar2021.org/)_  
 _[International Workshop on Historical Document Imaging and Processing (HIP’21)](https://blog.sbb.berlin/hip2021/)_  
@@ -83,7 +101,7 @@ _[Identifying Historical People, Places and other Entities (HIPE2020)](https://i
   booktitle = {Working Notes of {CLEF} 2020 - Conference and Labs of the Evaluation Forum, Thessaloniki, 
                Greece, September 22-25, 2020},
   year      = {2020},
-  url       = {http://ceur-ws.org/Vol-2696/paper\_163.pdf}
+  url       = {http://ceur-ws.org/Vol-2696/paper_163.pdf}
   }
   ```
 \
