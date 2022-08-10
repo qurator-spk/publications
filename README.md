@@ -24,7 +24,7 @@ _[International Workshop on Historical Document Imaging and Processing (HIP’21
 5-10 September 2021, Lausanne, Switzerland  
 :closed_book: [Proceedings of HIP'21](https://dl.acm.org/doi/proceedings/10.1145/3476887), pp. 13–18. 2021.  
   ```bibtex
-  @inproceedings{DBLP:conf/hip/Neudecker21,,
+  @inproceedings{DBLP:conf/hip/Neudecker21,
   author    = {Clemens Neudecker and Konstantin Baierer and Mike Gerber and Christian Clausner and Apostolos Antonacopoulos 
                and Stefan Pletschacher},
   editor    = {Apostolos Antonacopoulos and Christian Clausner and Maud Ehrmann and Clemens Neudecker},
