@@ -1,5 +1,21 @@
 # Publications
 
+**[Cultural Heritage as Data: Digital Curation and Artificial Intelligence in Libraries](http://ceur-ws.org/Vol-3234/paper2.pdf)**  
+_[3rd Conference on Digital Curation Technologies (Qurator2022)](https://qurator.ai/qurator-conference-2022/)_  
+19-23 September 2022, Berlin, Germany  
+:closed_book: [CEUR-WS vol. 3234](http://ceur-ws.org/Vol-3234/), 2022.  
+  ```bibtex
+  @inproceedings{DBLP:conf/qurator/Neudecker22,
+  author    = {Clemens Neudecker},
+  editor    = {Adrian Paschke, Georg Rehm, Clemens Neudecker, Lydia Pintscher},
+  title     = {Cultural Heritage as Data: Digital Curation and Artificial Intelligence in Libraries},
+  booktitle = {Proceedings of the 3rd Conference on Digital Curation Technologies {Qurator} 2022, 
+              Berlin, Germany, September 19-23, 2022},
+  year      = {2022},
+  url       = {http://ceur-ws.org/Vol-3234/paper2.pdf}
+  }
+  ```
+\
 **[Entity Linking in Multilingual Newspapers and Classical Commentaries with BERT](http://ceur-ws.org/Vol-3180/paper-85.pdf)**  
 _[13th Conference and Labs of the Evaluation Forum (CLEF 2022)](https://clef2022.clef-initiative.eu/)_  
 _[Identifying Historical People, Places and other Entities (HIPE2022)](https://hipe-eval.github.io/HIPE-2022/)_  
