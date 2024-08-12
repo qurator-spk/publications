@@ -1,5 +1,96 @@
 # Publications
 
+**[Automatisierte semantische Anreicherung von historischen Texten](https://www.b-i-t-online.de/heft/2024-03-fachbeitrag-labusch.pdf)**  
+_In: [b.i.t.online](https://www.b-i-t-online.de/)_  
+_Vol. 27(3) 2024_  
+:closed_book: [b.i.t.online](https://doi.org/10.5334/johd.124), 27(3), pp. 232–241. 2024.   
+:floppy_disk: **[github.com/qurator-spk/sbb_ner](https://github.com/qurator-spk/sbb_ner)**
+  ```bibtex
+  @article{DBLP:journal/bit/LabuschN24,
+  author    = {Kai Labusch and Sophie Schneider and Clemens Neudecker},
+  title     = {Automatisierte semantische Anreicherung von historischen Texten},
+  journal   = {b.i.t.online},
+  year      = {2024},
+  volume    = {27},
+  number    = {3},
+  pages     = {232--241},
+  url       = {https://www.b-i-t-online.de/heft/2024-03-fachbeitrag-labusch.pdf}
+  }
+  ```
+\
+**[Datasheets for Digital Cultural Heritage Datasets](https://doi.org/10.5334/johd.124)**  
+_In: [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/)_  
+_Vol. 9(1) 2023_  
+:closed_book: [Journal of Open Humanities Data](https://doi.org/10.5334/johd.124), 9(1), pp. 1–11. 2023.   
+:floppy_disk: **[zenodo.org/datasheet](https://doi.org/10.5281/zenodo.8375033)**
+  ```bibtex
+  @article{DBLP:journal/johd/AlkemadeN24,
+  author    = {Henk Alkemade and Steven Claeyssens and Giovanni Colavizza and Nuno Freire and
+               Jörg Lehmann and Clemens Neudecker and Giulia Osti and Daniel van Strien},
+  title     = {Datasheets for Digital Cultural Heritage Datasets},
+  journal   = {Journal of Open Humanities Data},
+  year      = {2023},
+  volume    = {9},
+  number    = {1},
+  pages     = {1--11},
+  url       = {https://doi.org/10.5334/johd.124}
+  }
+  ```
+\
+**[Gauging the Limitations of Natural Language Supervised Text-Image Metrics Learning by Iconclass Visual Concepts](https://doi.org/10.1145/3604951.3605516)**  
+_[17th International Conference on Document Analysis and Recognition (ICDAR2023)](https://icdar2023.org/)_  
+_[7th International Workshop on Historical Document Imaging and Processing (HIP’23)](https://blog.sbb.berlin/hip2023/)_  
+21-26 August 2023, San Jos&eacute;, CA, USA  
+:closed_book: [Proceedings of HIP'23](https://dl.acm.org/doi/proceedings/10.1145/3604951), pp. 19–24. 2023.   
+:floppy_disk: **[github.com/qurator-spk/sbb_images](https://github.com/qurator-spk/sbb_images)**
+  ```bibtex
+  @inproceedings{DBLP:conf/hip/LabuschN23,
+  author    = {Kai Labusch and Clemens Neudecker},
+  editor    = {Apostolos Antonacopoulos and Christian Clausner and Maud Ehrmann and Kai Labusch and Clemens Neudecker},
+  title     = {Gauging the Limitations of Natural Language Supervised Text-Image Metrics Learning by Iconclass Visual Concepts},
+  booktitle = {Proceedings of the 7th International Workshop on Historical Document Imaging and Processing {HIP} 2023, 
+               San José;, CA, USA, August 26, 2023},
+  year      = {2023},
+  url       = {https://doi.org/10.1145/3604951.3605516}
+  }
+  ```
+\
+**[Document Layout Analysis with Deep Learning and Heuristics](https://doi.org/10.1145/3604951.3605513)**  
+_[17th International Conference on Document Analysis and Recognition (ICDAR2023)](https://icdar2023.org/)_  
+_[7th International Workshop on Historical Document Imaging and Processing (HIP’23)](https://blog.sbb.berlin/hip2023/)_  
+21-26 August 2023, San Jos&eacute;, CA, USA  
+:closed_book: [Proceedings of HIP'23](https://dl.acm.org/doi/proceedings/10.1145/3604951), pp. 73–78. 2023.   
+:floppy_disk: **[github.com/qurator-spk/eynollah](https://github.com/qurator-spk/eynollah)**
+  ```bibtex
+  @inproceedings{DBLP:conf/hip/RezanezhadN23b,
+  author    = {Vahid Rezanezhad and Konstantin Baierer and Mike Gerber and Kai Labusch and Clemens Neudecker},
+  editor    = {Apostolos Antonacopoulos and Christian Clausner and Maud Ehrmann and Kai Labusch and Clemens Neudecker},
+  title     = {Document Layout Analysis with Deep Learning and Heuristics},
+  booktitle = {Proceedings of the 7th International Workshop on Historical Document Imaging and Processing {HIP} 2023, 
+               San José, CA, USA, August 26, 2023},
+  year      = {2023},
+  url       = {https://doi.org/10.1145/3604951.3605513}
+  }
+  ```
+\
+**[A hybrid CNN-Transformer Model for Historical Document Image Binarization](https://doi.org/10.1145/3604951.3605508)**  
+_[17th International Conference on Document Analysis and Recognition (ICDAR2023)](https://icdar2023.org/)_  
+_[7th International Workshop on Historical Document Imaging and Processing (HIP’23)](https://blog.sbb.berlin/hip2023/)_  
+21-26 August 2023, San Jos&eacute;, CA, USA  
+:closed_book: [Proceedings of HIP'23](https://dl.acm.org/doi/proceedings/10.1145/3604951), pp. 79–84. 2023.   
+:floppy_disk: **[github.com/qurator-spk/sbb_binarization](https://github.com/qurator-spk/sbb_binarization)**
+  ```bibtex
+  @inproceedings{DBLP:conf/hip/RezanezhadN23a,
+  author    = {Vahid Rezanezhad and Konstantin Baierer and Clemens Neudecker},
+  editor    = {Apostolos Antonacopoulos and Christian Clausner and Maud Ehrmann and Kai Labusch and Clemens Neudecker},
+  title     = {A hybrid CNN-Transformer Model for Historical Document Image Binarization},
+  booktitle = {Proceedings of the 7th International Workshop on Historical Document Imaging and Processing {HIP} 2023, 
+               San José, CA, USA, August 26, 2023},
+  year      = {2023},
+  url       = {https://doi.org/10.1145/3604951.3605508}
+  }
+  ```
+\
 **[Cultural Heritage as Data: Digital Curation and Artificial Intelligence in Libraries](http://ceur-ws.org/Vol-3234/paper2.pdf)**  
 _[3rd Conference on Digital Curation Technologies (Qurator2022)](https://qurator.ai/qurator-conference-2022/)_  
 19-23 September 2022, Berlin, Germany  
@@ -36,7 +127,7 @@ _[Identifying Historical People, Places and other Entities (HIPE2022)](https://h
 \
 **[A survey of OCR evaluation tools and metrics](https://doi.org/10.1145/3476887.3476888)**  
 _[16th International Conference on Document Analysis and Recognition (ICDAR2021)](https://icdar2021.org/)_  
-_[International Workshop on Historical Document Imaging and Processing (HIP’21)](https://blog.sbb.berlin/hip2021/)_  
+_[6th International Workshop on Historical Document Imaging and Processing (HIP’21)](https://blog.sbb.berlin/hip2021/)_  
 5-10 September 2021, Lausanne, Switzerland  
 :closed_book: [Proceedings of HIP'21](https://dl.acm.org/doi/proceedings/10.1145/3476887), pp. 13–18. 2021.  
   ```bibtex
