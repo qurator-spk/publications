@@ -1,5 +1,22 @@
 # Publications
 
+**[A Position Paper on AI and Copyrights in Cultural Heritage and Research (EU and UK)](https://doi.org/10.5334/johd.290)**  
+_In: [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/)_  
+_Vol. 11(1) 2025_  
+:closed_book: [Journal of Open Humanities Data](https://doi.org/10.5334/johd.290), 11(1), pp. 1-9. 2025.
+  ```bibtex
+  @article{DBLP:journal/johd/LehmannN25,
+  author    = {Jörg Lehmann, Anna-Maria Sichani},
+  title     = {A Position Paper on AI and Copyrights in Cultural Heritage and Research (EU and UK)},
+  journal   = {Journal of Open Humanities Data},
+  year      = {2025},
+  volume    = {11},
+  number    = {1},
+  pages     = {1--9},
+  url       = {https://doi.org/10.5334/johd.290}
+  }
+  ```
+\
 **[Automatisierte semantische Anreicherung von historischen Texten](https://www.b-i-t-online.de/heft/2024-03-fachbeitrag-labusch.pdf)**  
 _In: [b.i.t.online](https://www.b-i-t-online.de/)_  
 _Vol. 27(3) 2024_  
